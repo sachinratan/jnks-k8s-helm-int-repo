@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: nginx
   pullPolicy: IfNotPresent
-  tag: '32'
+  tag: '33'
 imagePullSecrets: []
 nameOverride: ''
 fullnameOverride: ''
